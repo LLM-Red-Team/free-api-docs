@@ -10,15 +10,15 @@
     "url": "git+https://github.com/LLM-Red-Team"
   },
   "bugs": {
-    "url": "https://github.com/SuYxh/free-api-docs/issues"
+    "url": "https://github.com/LLM-Red-Team/free-api-docs/issue"
   },
   "license": "MIT",
-  "homepage": "https://github.com/SuYxh/free-api-docs#readme",
+  "homepage": "https://github.com/LLM-Red-Team/free-api-docs#readme",
   "author": "dahuang <1806328384@qq.com>",
   "scripts": {
     "dev": "cross-env NODE_ENV=development vitepress dev docs",
     "build": "vitepress build docs",
-    "build:github": "cross-env APP_BASE_PATH=/free-api-docs/ pnpm build",
+    "build:github": "cross-env APP_BASE_PATH=/free-api/ pnpm build",
     "lint": "prettier --write .",
     "prepare": "husky install"
   },

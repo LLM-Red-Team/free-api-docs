@@ -50,7 +50,7 @@ jobs:
           # GitHub 密钥
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           # 指定仓库
-          REPOSITORY_NAME: LLM-Red-Team/free-api.gitee.io
+          REPOSITORY_NAME: LLM-Red-Team/free-api
           # GitHub Pages 读取的分支
           BRANCH: gh-pages
           # 静态文件所在目录

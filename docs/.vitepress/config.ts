@@ -39,7 +39,7 @@ export default defineConfig({
       label: "本页目录",
     },
 
-    socialLinks: [{ icon: "github", link: "https://github.com/SuYxh/free-api-docs" }],
+    socialLinks: [{ icon: "github", link: "https://github.com/LLM-Red-Team/free-api" }],
 
     footer: {
       message: "你相信光吗",
