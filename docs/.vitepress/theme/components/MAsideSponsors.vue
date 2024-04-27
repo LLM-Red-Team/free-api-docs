@@ -1,18 +1,13 @@
 <script setup lang="ts">
-import { VPDocAsideSponsors } from 'vitepress/theme'
+// import { VPDocAsideSponsors } from 'vitepress/theme'
 
 const data = [
-  {
-    items: [{ img: 'https://qn.huat.xyz/mac/202308122340742.jpg' }]
-  },
-  {
-    items: [{ img: 'https://qn.huat.xyz/mac/202308122340353.jpg' }]
-  }
+  
 ]
 </script>
 
 <template>
-  <VPDocAsideSponsors :data="data" />
+  <!-- <VPDocAsideSponsors :data="data" /> -->
 </template>
 
 <style>
