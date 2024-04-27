@@ -38,7 +38,7 @@ jobs:
 
       # 打包静态文件
       - name: Build
-        run: pnpm install --frozen-lockfile && pnpm run build:github
+        run: pnpm install --no-frozen-lockfile && pnpm run build:github
 
       - name: Copy files
         run: cp README.md ./dist/
