@@ -1,0 +1,42 @@
+{
+  "name": "free-api-docs",
+  "type": "module",
+  "private": true,
+  "version": "1.0.0",
+  "packageManager": "pnpm@8.0.0",
+  "description": "Development related notes",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LLM-Red-Team"
+  },
+  "bugs": {
+    "url": "https://github.com/SuYxh/free-api-docs/issues"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/SuYxh/free-api-docs#readme",
+  "author": "dahuang <1806328384@qq.com>",
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development vitepress dev docs",
+    "build": "vitepress build docs",
+    "build:github": "cross-env APP_BASE_PATH=/free-api-docs/ pnpm build",
+    "lint": "prettier --write .",
+    "prepare": "husky install"
+  },
+  "devDependencies": {
+    "@mdit-vue/shared": "^0.12.0",
+    "@types/node": "^18.13.0",
+    "cross-env": "^7.0.3",
+    "husky": "^8.0.3",
+    "lint-staged": "^13.1.2",
+    "prettier": "^2.8.4",
+    "sass": "^1.58.3",
+    "sitemap": "^7.1.1",
+    "vitepress": "1.0.0-alpha.60",
+    "vue": "^3.2.47"
+  },
+  "lint-staged": {
+    "*.{js,ts,css,md,json}": [
+      "prettier --write"
+    ]
+  }
+}
