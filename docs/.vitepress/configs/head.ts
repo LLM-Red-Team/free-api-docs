@@ -7,11 +7,17 @@ export const head: HeadConfig[] = [
   ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
   ["meta", { name: "apple-mobile-web-app-status-bar-style", content: "black" }],
   ["meta", { name: "msapplication-TileColor", content: "#000000" }],
-  ["meta", { name: "msapplication-TileImage", content: "/free-api/favicon.ico" }],
+  [
+    "meta",
+    { name: "msapplication-TileImage", content: "/free-api/favicon.ico" },
+  ],
   ["meta", { name: "baidu-site-verification", content: "codeva-Whjnr38WFE" }],
+  ["link", { rel: "icon", href: "/free-api/favicon.ico" }],
   ["link", { rel: "apple-touch-icon", href: "/free-api/favicon.ico" }],
-  ["link", { rel: "mask-icon", href: "/free-api/favicon.ico", color: "#3eaf7c" }],
-  ["link", { rel: "manifest", href: "/free-api/manifest.webmanifest" }],
+  [
+    "link",
+    { rel: "mask-icon", href: "/free-api/favicon.ico", color: "#3eaf7c" },
+  ],
   [
     "script",
     {

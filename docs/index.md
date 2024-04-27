@@ -3,9 +3,9 @@ layout: home
 layoutClass: "m-home-layout"
 
 hero:
-  name: Free-Api-Docs
+  name: Free API
   text: LLM Red Team
-  tagline: 仅共交流学习使用
+  tagline: 仅供测试使用，商用请使用官方API
   image:
     src: /logo.png
     alt: free-api-docs
@@ -16,34 +16,44 @@ hero:
       link: https://github.com/LLM-Red-Team
       theme: alt
 features:
-  - icon: 📖
+  - icon: 🐉
     title: 头牌
-    details: 并发数：暂无限制，有几率获得永封 <br /> Token有效期：暂时永久
-    link: /freeapi/kimi
+    details: Kimi.ai长文本大模型逆向API测试 <br /> 👍 擅长长文本解读整理 <br />✔ 高速流式输出<br />✔ 多轮对话<br />✔ 联网搜索<br />✔ 长文档解读<br />✔ 图像OCR
+    link: /freeapi/kimi/
     linkText: kimi
-  - icon: 📦
+  - icon: 📖
     title: 大家
-    details: 并发数：1路并发，暂无封号风险 <br /> Token有效期：暂时永久
-    link: /freeapi/glm
+    details: 智谱清言GLM4大模型逆向API测试 <br /> 👍 超强Agent智能体 <br />✔ 高速流式输出<br />✔ 智能体API<br />✔ 多轮对话<br />✔ AI绘图<br />✔ 联网搜索<br />✔ 长文档解读<br />✔ 代码生成/执行<br />✔ 多模态图像解析
+    link: /freeapi/glm/
     linkText: glm
   - icon: ❤️
     title: 新星
-    details: 并发数：2路并发，暂无封号风险 <br /> Token有效期：暂时永久
-    link: /freeapi/step
+    details: 跃问StepChat大模型逆向API测试 <br /> 👍 超强多模态能力 <br />✔ 高速流式输出<br />✔ 多轮对话<br />✔ 联网搜索<br />✔ 长文档解读<br />✔ 代码生成/执行<br />✔ 多模态图像解析
+    link: /freeapi/step/
     linkText: step
   - icon: 🌷
     title: 清倌
-    details: 并发数：5路并发，再高有几率获得时间不等的并发限制（目前最高可达8小时） <br /> Token有效期：至少一个月
-    link: /freeapi/qwen
+    details: 通义千问大模型逆向API测试 <br /> 👍 六边形战士 <br />✔ 高速流式输出<br />✔ 多轮对话<br />✔ 无水印AI绘图<br />✔ 联网搜索<br />✔ 长文档解读<br />✔ 多模态图像解析
+    link: /freeapi/qwen/
     linkText: qwen
   - icon: 📚
     title: 翰林
-    details: 未知待测，但似乎对IP地址搜索次数有限制，待测中 <br /> Token有效期：暂时永久，如果你在页面重新登录可能会破坏有效性暂时永久
-    link: /freeapi/metaso
+    details: 秘塔AI搜索逆向API测试 <br /> 👍 超强检索超长输出 <br />✔ 高速流式输出<br />✔ 超强联网搜索<br />✔ 多模式总结
+    link: /freeapi/metaso/
     linkText: metaso
+  - icon: 🦚
+    title: 佳人
+    details: 讯飞星火大模型逆向API测试 <br /> 👍 正在探索能力 <br />✔ 高速流式输出<br />✔ 多轮对话<br />✔ AI绘图<br />✔ 联网搜索<br />✔ 长文档解读<br />✔ 多模态图像解析
+    link: /freeapi/spark/
+    linkText: spark
+  - icon: 🦄
+    title: 才女
+    details: Emohaa情感大模型逆向API测试 <br /> 👍 共情能力 <br />✔ 高速流式输出<br />✔ 多轮对话
+    link: /freeapi/emohaa/
+    linkText: emohaa
   - icon: 💯
     title: 更多
-    details: 关注 Github，获取更多 Free API
+    details: 关注 LLM Red Team<br />一起探索国产大模型应用
     link: https://github.com/LLM-Red-Team
     linkText: More
 ---
