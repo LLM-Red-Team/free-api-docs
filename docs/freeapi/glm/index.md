@@ -17,7 +17,7 @@
 
 与 ChatGPT 接口完全兼容。
 
-还有以下六个 free-api 欢迎关注：
+还有以下七个 free-api 欢迎关注：
 
 Moonshot AI（Kimi.ai）接口转 API [kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api)
 
@@ -28,6 +28,8 @@ Moonshot AI（Kimi.ai）接口转 API [kimi-free-api](https://github.com/LLM-Red
 秘塔 AI (Metaso) 接口转 API [metaso-free-api](https://github.com/LLM-Red-Team/metaso-free-api)
 
 讯飞星火（Spark）接口转 API [spark-free-api](https://github.com/LLM-Red-Team/spark-free-api)
+
+MiniMax（海螺AI）接口转API [hailuo-free-api](https://github.com/LLM-Red-Team/hailuo-free-api)
 
 聆心智能 (Emohaa) 接口转 API [emohaa-free-api](https://github.com/LLM-Red-Team/emohaa-free-api)
 

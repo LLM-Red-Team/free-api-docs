@@ -46,16 +46,16 @@ features:
     details: 讯飞星火大模型逆向API测试 <br /> 👍 正在探索能力 <br />✔ 高速流式输出<br />✔ 多轮对话<br />✔ AI绘图<br />✔ 联网搜索<br />✔ 长文档解读<br />✔ 多模态图像解析
     link: /freeapi/spark/
     linkText: spark
+  - icon: 🐚
+    title: 歌伶
+    details: 海螺AI大模型逆向API白嫖测试 <br /> 👍 超自然语音 <br />✔ 高速流式输出<br />✔ 多轮对话<br />✔ 语音合成<br />✔ 联网搜索<br />✔ 长文档解读<br />✔ 多模态图像解析
+    link: /freeapi/hailuo/
+    linkText: hailuo
   - icon: 🦄
     title: 才女
     details: Emohaa情感大模型逆向API测试 <br /> 👍 共情能力 <br />✔ 高速流式输出<br />✔ 多轮对话
     link: /freeapi/emohaa/
     linkText: emohaa
-  - icon: 💯
-    title: 更多
-    details: 关注 LLM Red Team<br />一起探索国产大模型应用
-    link: https://github.com/LLM-Red-Team
-    linkText: More
 ---
 
 <style>
