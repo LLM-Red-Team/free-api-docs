@@ -9,7 +9,6 @@
 
 <hr>
 
-[![](https://img.shields.io/github/license/llm-red-team/hailuo-free-api.svg)](LICENSE)
 ![](https://img.shields.io/github/stars/llm-red-team/hailuo-free-api.svg)
 ![](https://img.shields.io/github/forks/llm-red-team/hailuo-free-api.svg)
 ![](https://img.shields.io/docker/pulls/vinlic/hailuo-free-api.svg)
