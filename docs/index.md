@@ -48,7 +48,7 @@ features:
     linkText: spark
   - icon: 🐚
     title: 歌伶
-    details: 海螺AI大模型逆向API白嫖测试 <br /> 👍 超自然语音 <br />✔ 高速流式输出<br />✔ 多轮对话<br />✔ 语音合成<br />✔ 联网搜索<br />✔ 长文档解读<br />✔ 多模态图像解析
+    details: 海螺AI大模型逆向API测试 <br /> 👍 超自然语音 <br />✔ 高速流式输出<br />✔ 多轮对话<br />✔ 语音合成<br />✔ 联网搜索<br />✔ 长文档解读<br />✔ 多模态图像解析
     link: /freeapi/hailuo/
     linkText: hailuo
   - icon: 🦄
