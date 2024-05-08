@@ -11,6 +11,7 @@ export const nav: DefaultTheme.Config["nav"] = [
       { text: "秘塔AI", link: "/freeapi/metaso/" },
       { text: "讯飞星火", link: "/freeapi/spark/" },
       { text: "海螺AI", link: "/freeapi/hailuo/" },
+      { text: "DeepSeek", link: "/freeapi/deepseek/" },
       { text: "聆心智能", link: "/freeapi/emohaa/" },
     ],
     activeMatch: "^/freeapi",

@@ -3,7 +3,6 @@
   "type": "module",
   "private": true,
   "version": "1.0.0",
-  "packageManager": "pnpm@9.0.6",
   "description": "Development related notes",
   "repository": {
     "type": "git",

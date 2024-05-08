@@ -26,6 +26,8 @@ ZhipuAI (智谱清言) 接口转API [glm-free-api](https://github.com/LLM-Red-Te
 
 讯飞星火（spark）接口转API [spark-free-api](https://github.com/LLM-Red-Team/spark-free-api)
 
+深度求索（DeepSeek）接口转API [deepseek-free-api](https://github.com/LLM-Red-Team/deepseek-free-api)
+
 聆心智能 (Emohaa) 接口转API [emohaa-free-api](https://github.com/LLM-Red-Team/emohaa-free-api)
 
 此外，我们提出一种可能的提高逆向成本的方案：[ban-free-api](https://github.com/LLM-Red-Team/ban-free-api)

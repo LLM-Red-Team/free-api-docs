@@ -51,6 +51,11 @@ features:
     details: 海螺AI大模型逆向API测试 <br /> 👍 超自然语音 <br />✔ 高速流式输出<br />✔ 多轮对话<br />✔ 语音合成<br />✔ 联网搜索<br />✔ 长文档解读<br />✔ 多模态图像解析
     link: /freeapi/hailuo/
     linkText: hailuo
+  - icon: 💸
+    title: 千金
+    details: DeepSeek V2大模型逆向API测试 <br /> 👍 官方API白菜价 <br />✔ 高速流式输出<br />✔ 多轮对话
+    link: /freeapi/deepseek/
+    linkText: deepseek
   - icon: 🦄
     title: 才女
     details: Emohaa情感大模型逆向API测试 <br /> 👍 共情能力 <br />✔ 高速流式输出<br />✔ 多轮对话
