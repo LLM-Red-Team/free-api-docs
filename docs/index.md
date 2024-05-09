@@ -53,7 +53,7 @@ features:
     linkText: hailuo
   - icon: 💸
     title: 千金
-    details: DeepSeek V2大模型逆向API测试 <br /> 👍 GPT3.5平替 <br />✔ 高速流式输出<br />✔ 多轮对话
+    details: DeepSeek V2大模型逆向API测试 <br /> 👍 GPT3.5优质替代 <br />✔ 高速流式输出<br />✔ 多轮对话
     link: /freeapi/deepseek/
     linkText: deepseek
   - icon: 🦄
