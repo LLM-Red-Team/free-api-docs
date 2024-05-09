@@ -43,7 +43,7 @@ export default defineConfig({
 
     footer: {
       message: "你相信光吗",
-      copyright: "Copyright © 2020-present",
+      copyright: "Copyright © 2024",
     },
 
     darkModeSwitchLabel: "外观",

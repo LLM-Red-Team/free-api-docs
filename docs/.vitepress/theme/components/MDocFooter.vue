@@ -17,7 +17,7 @@ const pageId = computed(() => route.path.replace('/su-notes', ''))
       title="当前页面累计访问数"
       onerror="this.style.display='none'"
     />
-    Copyright © 2020-present
+    Copyright © 2024
   </div>
 </template>
 
