@@ -43,7 +43,7 @@ features:
     linkText: metaso
   - icon: 🦚
     title: 佳人
-    details: 讯飞星火大模型逆向API测试 <br /> 👍 正在探索能力 <br />✔ 高速流式输出<br />✔ 智能体API<br />✔ 多轮对话<br />✔ AI绘图<br />✔ 联网搜索<br />✔ 长文档解读<br />✔ 多模态图像解析
+    details: 讯飞星火大模型逆向API测试 <br /> 👍 办公助手 <br />✔ 高速流式输出<br />✔ 智能体API<br />✔ 多轮对话<br />✔ AI绘图<br />✔ 联网搜索<br />✔ 长文档解读<br />✔ 多模态图像解析
     link: /freeapi/spark/
     linkText: spark
   - icon: 🐚
